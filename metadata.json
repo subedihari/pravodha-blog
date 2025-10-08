@@ -1,0 +1,5 @@
+{
+  "name": "Pravodha Blog",
+  "description": "A modern, visually appealing blog frontend built with React and Tailwind CSS. It displays a list of blog posts and allows users to read individual articles.",
+  "requestFramePermissions": []
+}
